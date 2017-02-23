@@ -68,6 +68,25 @@ JSAUCER published in Google code is VERSION 1
 
 
 
+JWEB (JDOLLAR  Programming  Language)
+======================================
+
+JWEB  is invented   by wilmix  jemin  j  @ Year  2015  in CH$ p.L
+
+
+It is used in mobile with remote webapplication (deploy in cloud computing).
+
+J@  is  used  for mobile  apps.
+
+It  is  a  Most  standard   P.L  and  used  for Advanced  Business..
+
+you can see more about  at  github url and  google url.
+
+JWEB  CONSISTS  of   12 divisions  ie  )  JWEB1.0, JWEB2.0,JWEB3.0,JWEB4.0  up to JWEB12.0.
+
+
+
+
 
 
 
