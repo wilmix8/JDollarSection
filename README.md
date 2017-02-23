@@ -84,7 +84,7 @@ you can see more about  at  github url and  google url.
 
 JWEB  CONSISTS  of   12 divisions  ie  )  JWEB1.0, JWEB2.0,JWEB3.0,JWEB4.0  up to JWEB12.0.
 
-
+only  4 divisions  are  over in year  2017.
 
 
 
