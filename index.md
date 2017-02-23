@@ -1,7 +1,7 @@
 # WEBSection
 ==================
 
- WEBSection  is  about  Advanced  Programming  Languages  like   WEB,W2ee2,W2ee3,JSAUCER, NWEB(JAS).
+ WEBSection  is  about  Advanced  Programming  Languages  like   WEB,W2ee2,W2ee3,JSAUCER, NWEB(JAS), and  JWEB(JDOLLAR) .
 
 
 
@@ -58,13 +58,31 @@ JSAUCER IS INVENTED BY WILMIX JEMIN J @ YEAR 2015 IN WEB Language.
 
 It is a Mobile P.L.
 
-It is used in mobile with cloud computing (deploy in cloud computing). and used for constructing webpages for mobiles.
+It is used in mobile with remote webapplication (deploy in cloud computing). and used for constructing webpages for mobiles.
 
 The mobile users can view the webpage through mobile.
 
 Here only JAVA P.L is focused.
 
 JSAUCER published in Google code is VERSION 1
+
+
+
+JWEB (JDOLLAR  Programming  Language)
+======================================
+
+JWEB  is invented   by wilmix  jemin  j  @ Year  2015  in CH$ p.L
+
+
+It is used in mobile with remote webapplication (deploy in cloud computing).
+
+J@  is  used  for mobile  apps.
+
+It  is  a  Most  standard   P.L  and  used  for Advanced  Business..
+
+you can see more about  at  github url.
+
+JWEB  CONSISTS  of   12 divisions  ie  )  JWEB1.0, JWEB2.0,JWEB3.0,JWEB4.0  up to JWEB12.0.
 
 
 
